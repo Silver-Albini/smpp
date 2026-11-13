@@ -27,7 +27,7 @@ De extensie is ontwikkeld door [drie middelbare scholieren met hulp van vrijwill
 
 ### 🧩 Widgets
 
-- **Herindelbaar dashboard**: Sleep widgets naar waar jij ze wilt, verdeel ze over panelen en verwijder de Smartschool-blokken die je niet gebruikt.
+- **Herindeelbaar dashboard**: Sleep widgets naar waar jij ze wilt, verdeel ze over panelen en verwijder de Smartschool-blokken die je niet gebruikt.
 - **Klok, kalender & planner**: Houd je agenda en planning altijd in het zicht.
 - **Taken & punten**: Bekijk je opdrachten en je punten rechtstreeks op de startpagina.
 - **Notities & countdown**: Maak snelle notities en tel af naar een toets of vakantie.
